@@ -1,11 +1,2 @@
-animals.Cat=org.springframework.stereotype.Component
-animals.Dog=org.springframework.stereotype.Component
-animals.Mouse=org.springframework.stereotype.Component
-c5.MyAspect=org.springframework.stereotype.Component
-c5.Task=org.springframework.stereotype.Component
-teachers.HistoryTeacher=org.springframework.stereotype.Component
-teachers.HomeworkService=org.springframework.stereotype.Component
-teachers.JavaTeacher=org.springframework.stereotype.Component
-teachers.MathTeacher=org.springframework.stereotype.Component
-teachers.TeacherFactory=org.springframework.stereotype.Component
-teachers.WisdomWordsService=org.springframework.stereotype.Component
+c6.ClassConfiguration=org.springframework.stereotype.Component
+c6.MyBean=org.springframework.stereotype.Component
